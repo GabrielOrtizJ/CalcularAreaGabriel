@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CalcularAreaGabriel</string>
+    <string name="description_image_button_zero">0</string>
+    <string name="description_image_button_uno">1</string>
+    <string name="description_image_button_dos">2</string>
+    <string name="description_image_button_tres">3</string>
+    <string name="description_image_button_cuatro">4</string>
+    <string name="description_image_button_cinco">5</string>
+    <string name="description_image_button_seis">6</string>
+    <string name="description_image_button_siete">7</string>
+    <string name="description_image_button_ocho">8</string>
+    <string name="description_image_button_nueve">9</string>
+    <string name="description_image_button_triangulo">triangulo</string>
+    <string name="description_image_button_cuadrado">cuadrado</string>
+    <string name="description_image_button_rectangulo">rectangulo</string>
+    <string name="description_image_button_pentagono">pentagono</string>
+    <string name="description_image_button_hexago">hexagono</string>
+    <string name="description_image_button_circulo">circulo</string>
+    <string name="description_image_button_calcular">calcular</string>
+    <string name="description_image_button_borrar">borrar</string>
+</resources>
